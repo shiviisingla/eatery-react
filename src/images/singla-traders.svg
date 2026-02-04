@@ -1,0 +1,67 @@
+<svg
+  width="420"
+  height="120"
+  viewBox="0 0 420 120"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+>
+  <!-- Shopping Cart Icon -->
+  <g transform="translate(0,20)">
+    <path
+      d="M20 20h70l-8 40H30z"
+      fill="#1E3A8A"
+      rx="6"
+    />
+    <path
+      d="M20 20h-8"
+      stroke="#1E3A8A"
+      stroke-width="4"
+      stroke-linecap="round"
+    />
+    <circle cx="35" cy="70" r="6" fill="#1E3A8A" />
+    <circle cx="75" cy="70" r="6" fill="#1E3A8A" />
+
+    <!-- Smile -->
+    <path
+      d="M40 42c6 6 20 6 26 0"
+      stroke="#F59E0B"
+      stroke-width="4"
+      stroke-linecap="round"
+      fill="none"
+    />
+  </g>
+
+  <!-- Text -->
+  <text
+    x="120"
+    y="55"
+    font-size="36"
+    font-weight="700"
+    fill="#1E293B"
+    font-family="Inter, Arial, sans-serif"
+  >
+    Singla
+  </text>
+
+  <text
+    x="120"
+    y="88"
+    font-size="28"
+    font-weight="700"
+    fill="#F59E0B"
+    font-family="Inter, Arial, sans-serif"
+  >
+    TRADERS
+  </text>
+
+  <text
+    x="120"
+    y="108"
+    font-size="12"
+    fill="#64748B"
+    font-family="Inter, Arial, sans-serif"
+    letter-spacing="1.5"
+  >
+    WHOLESALE & RETAIL
+  </text>
+</svg>
