@@ -2,6 +2,24 @@
   "name": "singla_traders",
   "version": "0.1.0",
   "private": true,
+  "description": "This is Singla Traders, handled by Krishan Kumar but maintained by Shivi Singla",
+  "homepage": "./",
+  "bugs": {
+    "url": "https://github.com/shiviisingla/eatery-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiviisingla/eatery-react.git"
+  },
+  "license": "ISC",
+  "author": "Shivi Singla",
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -12,11 +30,9 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "parcel": "^2.16.4"
   },
   "eslintConfig": {
     "extends": [
